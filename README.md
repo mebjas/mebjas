@@ -29,5 +29,5 @@ My primary area of focus have been around optimizing the app to run feasibly on 
 ### Misc
 
 - 💬 Ask me about ... Android, Image Processing, Computational Photography, Algorithm Optimisation, Android optimisation, JNI
-- 📫 How to reach me: ... [minhazav@gmail.com](mailto:minhazav@gmail.com]
+- 📫 How to reach me: ... [minhazav@gmail.com](mailto:minhazav@gmail.com)
 
