@@ -1,6 +1,7 @@
-### Hi there 👋
+### Minhaz (He / Him)
+Hi there 👋
 
-Elsewhere on the internet
+### Elsewhere on the internet
 
 [![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/minhazav) 
 [![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://linkedin.com/in/minhazav)
@@ -14,6 +15,8 @@ Elsewhere on the internet
 -   [Open source library for QR Code and barcode scanning with ReactJs](https://scanapp.org/blog/2021/09/24/open-source-library-for-qr-code-and-barcode-scanning-with-reactjs.html)
 
 ### About Minhaz
+**(Current) Senior Software Engineer @Google, Singapore**
+
 I lead computational photography features like HDR & NightMode in [CameraGo](https://blog.google/products/android/android-go-camera-go/). It’s an exciting project which requires building best in class computational photography algorithms improving image quality on less than ideal hardware while being able to process millions of pixels under low latency on rather low-end devices.
 
 My primary area of focus have been around optimizing the app to run feasibly on low CPU, low RAM devices, but these days I spend a fair share of time improving image quality of HDR.
@@ -23,17 +26,8 @@ My primary area of focus have been around optimizing the app to run feasibly on 
 
 [Learn more at minhazav.dev](https://blog.minhazav.dev/about/)
 
-<!--
-**mebjas/mebjas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Misc
 
-Here are some ideas to get you started:
+- 💬 Ask me about ... Android, Image Processing, Computational Photography, Algorithm Optimisation, Android optimisation, JNI
+- 📫 How to reach me: ... [minhazav@gmail.com](mailto:minhazav@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
