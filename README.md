@@ -3,6 +3,8 @@ Hi there 👋
 
 ### Elsewhere on the internet
 
+I often write on [Medium, find me here](https://minhazav.medium.com).
+
 [![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/minhazav) 
 [![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://linkedin.com/in/minhazav)
 
