@@ -10,13 +10,18 @@ I often write on [Medium, find me here](https://minhazav.medium.com).
 
 ### Popular blog posts
 
+#### Medium
 -   [A Senior Engineer at Google Reveals “The Best Programming Language To Learn in 2022”](https://betterprogramming.pub/the-best-programming-language-to-learn-in-2022-senior-engineer-at-google-explains-5abcbc5f6556) -- **featured on Medium**
+-   [This is the Coding Topic That Most Interview Candidates Struggle With](https://betterprogramming.pub/the-topic-i-have-seen-most-interview-candidate-struggle-with-9e11b92ea65e)
+-   [One Tip to Crack the Coding Interview — Use Abstractions!](https://betterprogramming.pub/coding-interview-1-tip-use-abstractions-73d0f2b7b2ce)
+-   [What’s the Purpose of Code Reviews?](https://betterprogramming.pub/the-purpose-of-code-review-c9942ee551e2)
+
+#### Open Access - personal blog
 -   [Write fast and maintainable code with Halide - Part 1](https://blog.minhazav.dev/write-fast-and-maintainable-code-with-halide/)
 -   [Guide C++ compiler to auto vectorise the code](https://blog.minhazav.dev/guide-compiler-to-auto-vectorise/)
 -   [Faster image processing in Android Java using multi threading](https://blog.minhazav.dev/faster-image-processing-in-android-java-using-multi-threading/)
 -   [How to use RenderScript to convert YUV_420_888 YUV Image to Bitmap](https://blog.minhazav.dev/how-to-use-renderscript-to-convert-YUV_420_888-yuv-image-to-bitmap/)
 -   [How to use YUV (YUV_420_888) Image in Android](https://blog.minhazav.dev/how-to-convert-yuv-420-sp-android.media.Image-to-Bitmap-or-jpeg/)
--   [This is the Coding Topic That Most Interview Candidates Struggle With](https://betterprogramming.pub/the-topic-i-have-seen-most-interview-candidate-struggle-with-9e11b92ea65e)
 -   [Open source library for QR Code and barcode scanning with ReactJs](https://scanapp.org/blog/2021/09/24/open-source-library-for-qr-code-and-barcode-scanning-with-reactjs.html)
 
 ### About Minhaz
